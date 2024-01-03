@@ -1,5 +1,5 @@
 # 项目名称：
-基于深度学习的教学视频生成系统
+基于知识的视频生成系统 Knowledge to Video (KTV) 
 
 # 项目需要：
 python3.8
